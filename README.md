@@ -40,12 +40,12 @@ Each folder contains:
 | 4   | Search Results Page User Interaction Patterns          | Easy       | [View](Day4-Search%20Results%20Page%20User%20Interaction%20Patterns)          |
 | 5   | Switch 2 Pre-sales Demand Forecasting                  | Hard       | [View](Day5-Switch%202%20Pre-sales%20Demand%20Forecasting)                    |
 | 6   | Ice Cream Sales Seasonal Performance Assessment        | Hard       | [View](Day6-Ice%20Cream%20Sales%20Seasonal%20Performance%20Assessment)        |
-| 7   | Celebrity Product Drops Sales Performance              | Easy       | [View](Day7-Celebrity%20Product%20Drops%20Sales%20Performance)                |
+| 7   | Celebrity Product Drops Sales Analysis                 | Easy       | [View](Day7-Celebrity%20Product%20Drops%20Sales%20Performance%20Analysis)     |
 | 8   | Payment Method Impact on Athleisure Online Sales       | Medium     | [View](Day8-Payment%20Method%20Impact%20on%20Athleisure%20Online%20Sales)     |
-| 9   | Instagram Stories Daily User Creation Analysis         | Medium     | [View](Day9-Instagram%20Stories%20Daily%20User%20Creation%20Analysis)         |
-| 10  | App Store Ratings Performance                          | Easy       | [View](Day10-App%20Store%20Ratings%20Performance)                             |
+| 9   | Instagram Stories Daily User Creation Patterns         | Medium     | [View](Day9-Instagram%20Stories%20Daily%20User%20Creation%20Patterns)         |
+| 10  | App Store Ratings Performance                          | Easy       | [View](Day10-App%20Store%20Ratings%20Performance%20by%20App%20Category)       |
 | 11  | Payment Fraud Risk Detection in Online Transactions    | Medium     | [View](Day11-Payment%20Fraud%20Risk%20Detection%20in%20Online%20Transactions) |
-| 12  | E-commerce Returns Customer Segmentation               | Medium     | [View](Day12-E-commerce%20Returns%20Customer%20Segmentation)                  |
+| 12  | E-commerce Returns Customer Segmentation               | Medium     | [View](Day12-E-commerce%20Returns%20Customer%20Segmentation%20Model)          |
 | 13  | New Milkshake Flavor Selection for Launch              | Medium     | [View](Day13-New%20Milkshake%20Flavor%20Selection%20for%20Launch)             |
 | 14  | Loyalty Program's Impact on Transaction Patterns       | Hard       | [View](Day14-Loyalty%20Program's%20Impact%20on%20Transaction%20Patterns)      |
 | 15  | Day15-UberPool Driver Earnings Optimization Strategies | Hard       | [View](Day15-UberPool%20Driver%20Earnings%20Optimization%20Strategies)        |
